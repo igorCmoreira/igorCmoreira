@@ -37,8 +37,8 @@ Comecei a aprender código em 2018 e desde então sou apaixonado por este univer
 
   <div align="center">
   <a href="https://github.com/igorCmoreira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorCmoreira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorCmoreira&layout=compact&langs_count=7&theme=nord"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=igorCmoreira&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorCmoreira&layout=compact&langs_count=7&theme=nord"/>
 </div>
   <div align="center" ><a href="http://www.github.com/igorCmoreira"><img src="https://github-readme-streak-stats.herokuapp.com?user=igorCmoreira&theme=nord&date_format=M%20j%5B%2C%20Y%5D" /></a></div>
 
