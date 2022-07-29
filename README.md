@@ -8,7 +8,7 @@ Comecei a aprender código em 2018 e desde então sou apaixonado por este univer
 
 * 🌍  Eu moro em Belo Horizonte/MG
 * ✉️  Você pode entrar em contato comigo em  [igorcampos200@gmail.com](mailto:igorcampos200@gmail.com)
-* 🧠  Próximo passo Mongo db
+* 🧠  Próximo passo Python
 
 ### Skills
 
