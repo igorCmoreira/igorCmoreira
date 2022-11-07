@@ -8,7 +8,7 @@ Comecei a aprender código em 2018 e desde então sou apaixonado por este univer
 
 * 🌍  Eu moro em Belo Horizonte/MG
 * ✉️  Você pode entrar em contato comigo em  [igorcampos200@gmail.com](mailto:igorcampos200@gmail.com)
-* 🧠  Próximo passo Python
+* 🧠  Próximo passo React-native
 
 ### Skills
 
@@ -27,6 +27,7 @@ Comecei a aprender código em 2018 e desde então sou apaixonado por este univer
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" heigth="36" alt="Python" /></a>
 </p>
 
 ### Socials
