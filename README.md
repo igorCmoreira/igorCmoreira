@@ -29,6 +29,7 @@ Sou um desenvolvedor Full-Stack apaixonado por tecnologia e pelas possibilidades
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" heigth="36" alt="Python" /></a>
 </p>
 ### Experiência
+
 Desenvolvedor Full-Stack Mobile na bigtrade S/A (jan de 2023 - presente)
 Como desenvolvedor full-stack mobile na bigtrade S/A, possuo habilidades em diversas ferramentas e tecnologias para desenvolver soluções inovadoras e seguras para nossos usuários. Minhas principais competências incluem:
 
